@@ -11,6 +11,6 @@ To add a screenshot, please replace `screenshot.png` with
 your own screenshot.
 -->
 
-## <your-project-name>
+## Here Comes The Sun
 
 a brief description of your project goes here
