@@ -13,5 +13,5 @@ your own screenshot.
 
 ## SoarCS 2019
 
-a brief description of your project goes here
+
 For our project we used two microbits along with the radio function to play "Here Comes The Sun" by The Beatles. Each one was programmed to be the different guitars used in the original.  
